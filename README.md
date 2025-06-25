@@ -1,6 +1,6 @@
   =>  Template Name    : MASUVO - Construction Company Website Template
 
-  =>  Preview Link    : https://htmlcodex.com/construction-company-website-template
+  =>  Preview Link    : https://animeshmaji.github.io/MASUVO-Construction-Company-Website/
 
   =>  Template Author  : DGTION
 
